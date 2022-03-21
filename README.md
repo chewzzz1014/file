@@ -5,4 +5,4 @@ As CDN(Contents Deliver Network) for files I use in elsewhere. Supported by [jsd
 
 Format to access any file in this repository: https://cdn.jsdelivr.net/gh/username/repo/file
 
-Example: https://cdn.jsdelivr.net/gh/chewzzz1014/chewzzz1014.github.io/train.csv.zip
+Example: https://cdn.jsdelivr.net/gh/chewzzz1014/file/train.csv.zip
