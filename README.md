@@ -7,4 +7,4 @@ Format to access any file in any repository: https://cdn.jsdelivr.net/gh/github_
 
 Example: https://cdn.jsdelivr.net/gh/chewzzz1014/file/train.csv.zip
 
-**Disclaimer: I did not own any of these files. Refer sources.txt for sources of files.**
+**Disclaimer: I did not own some of these files. Refer sources.txt for sources of files.**
